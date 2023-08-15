@@ -41,3 +41,7 @@ pip install filetools
 2. 水印文本不能为空
 
 以上是添加水印程序的说明。如果有任何问题或疑问，请联系开发者。另外此程序十分简陋，如您有好的想法，请联系开发者
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=XDDwyc/Watermark&type=Date)](https://star-history.com/#XDDwyc/Watermark&Date)

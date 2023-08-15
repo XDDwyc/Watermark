@@ -40,3 +40,7 @@ You can click "Open Output Folder" to quickly open the output folder.
 2. The watermark text cannot be empty.
 
 The above is the description of the watermarking program. If you have any questions or concerns, please contact the developer. Additionally, this program is very basic, so if you have any good ideas, please contact the developer.
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=XDDwyc/Watermark&type=Date)](https://star-history.com/#XDDwyc/Watermark&Date)
