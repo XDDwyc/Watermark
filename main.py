@@ -3,7 +3,7 @@ import tkinter as tk
 import subprocess
 from tkinter import filedialog
 from tkinter import colorchooser
-from watermarker.marker import add_mark
+from watermarked.marker import add_mark
 
 # 创建添加水印的窗口
 window = tk.Tk()
