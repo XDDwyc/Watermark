@@ -1,4 +1,4 @@
-#
+# ....
 这个程序使用 tkinter 库创建了一个简单的 GUI 界面，用于在图片上添加水印
 [Click here for the English version of README](/README_EN.md)
 
